@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;    
+}
+
+.jumbotron {
+    text-align: center;
+    text-transform: uppercase;
+    height: 100px;
+    line-height: 0px;
+    color: #ffffff;
+    background-color: #e74c3c !important;
+}
+.btn {
+    margin-top: 15px;
+    
+}
+
+
